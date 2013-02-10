@@ -5,8 +5,8 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   
-  <remote  name="baked"
-            fetch="git://github.com/TeamBAKED/" />
+  <remote  name="blackwing182"
+            fetch="git://github.com/blackwing182/" />
 
   <remote  name="github"
            fetch=".."
