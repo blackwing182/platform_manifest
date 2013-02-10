@@ -371,7 +371,6 @@
   <!-- Begin IceColdJelly42 repos -->
   
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="jelly42" revision="jb-mr1" />
