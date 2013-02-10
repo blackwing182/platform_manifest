@@ -358,8 +358,8 @@
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
-
-  <project path="vendor/aokp" name="AOKP/vendor_aokp" remote="aokp" revision="jb-mr1" />
+ 
+  
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="blackwing182" revision="jb-4.2" />
   
@@ -379,6 +379,7 @@
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jelly42" revision="cm-10.1" />
+  <project path="vendor/aokp" name="vendor_aokp" remote="blackwing182" revision="jb-mr1" />
   
   <!-- End Of IceColdJelly42 repos -->
   
