@@ -8,9 +8,8 @@
   <remote  name="blackwing182"
             fetch="git://github.com/blackwing182/" />
 
-  <remote  name="github"
-           fetch=".."
-           review="review.cyanogenmod.org" />
+  <remote name="github"
+           fetch="git://github.com/" />
 
   <remote  name="jelly42"
            fetch="https://github.com/IceColdJelly42/" />
