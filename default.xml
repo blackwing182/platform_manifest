@@ -378,5 +378,5 @@
   
   <!-- End Of IceColdJelly42 repos -->
   
-  <project path="platform_manifest" name="platform_manifest" remote="blackwing182" revision="jb-mr1" />
+  <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
 </manifest>
