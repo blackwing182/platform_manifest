@@ -39,8 +39,6 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/ville" name="device_htc_ville" remote="blackwing182" revision="jb-4.2" />
-  <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="blackwing182" revision="jb-4.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
   <project path="device/generic/common" name="device/generic/common" />
@@ -360,7 +358,6 @@
  
   
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/htc" name="vendor_htc" remote="blackwing182" revision="jb-4.2" />
   
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
@@ -378,7 +375,7 @@
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jelly42" revision="cm-10.1" />
-  <project path="vendor/aokp" name="vendor_aokp" remote="blackwing182" revision="jb-mr1" />
+  <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
   
   <!-- End Of IceColdJelly42 repos -->
   
