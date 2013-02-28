@@ -4,9 +4,6 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
-  
-  <remote  name="blackwing182"
-            fetch="git://github.com/blackwing182/" />
 
   <remote name="github"
            fetch="git://github.com/" />
